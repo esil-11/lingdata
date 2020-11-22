@@ -2,7 +2,7 @@
 # udpipe_model = russian-syntagrus-ud-2.6-200830
 # udpipe_model_licence = CC BY-NC-SA
 1	ну	ну	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#9.152#9.362
-2	шо	что	PART	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#9.362#9.572
+2	шо	что	PART	_	_	_	_	_	words@mm1972m#@mm1972m#9.362#9.572
 3	Вениамин	Вениамин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#9.572#9.782
 4	?	?	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#9.782#9.992
 5	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#9.992#10.867
@@ -41,7 +41,7 @@
 38	Вень	Вень	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#119.41#119.547
 39	!	!	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#119.547#119.685
 40	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#119.685#119.785
-41	ааааа	ааааа	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#119.785#120.58
+41	ааааа	а	PART	_	_	_	_	_	words@mm1972m#@mm1972m#119.785#120.58
 42	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#120.58#121.5
 43	под	под	ADP	_	_	_	_	_	words@mm1972m#@mm1972m#121.5#121.7
 44	каким	какой	DET	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#121.7#121.9
@@ -55,8 +55,8 @@
 52	где	где	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#123.307#123.434
 53	?	?	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#123.434#123.562
 54	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#123.562#163.212
-55	то	то есть	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#163.212#163.36
-56	есть	то есть	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#163.36#163.545
+55	то	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#163.212#163.36
+56	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#163.36#163.545
 57	сразу	сразу	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#163.545#164.086
 58	напрашивается	напрашиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@mm1972m#@mm1972m#164.086#164.627
 59	аналогия	аналогия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@mm1972m#@mm1972m#164.627#165.168
@@ -71,15 +71,15 @@
 68	ли	ли	PART	_	_	_	_	_	words@mm1972m#@mm1972m#168.931#169.09
 69	?	?	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#169.09#169.249
 70	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#169.249#180.975
-71	то	то есть	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#180.975#181.073
-72	есть	то есть	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#181.073#181.213
+71	то	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#180.975#181.073
+72	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#181.073#181.213
 73	это	это	PART	_	_	_	_	_	words@mm1972m#@mm1972m#181.213#181.344
 74	по	по сути	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#181.344#181.454
 75	сути	по сути	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#181.454#181.902
 76	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#181.902#182.35
 77	подсознание	подсознание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#182.35#182.799
 78	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#182.799#231.774
-79	а	а	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#231.774#231.856
+79	а	а	PART	_	_	_	_	_	words@mm1972m#@mm1972m#231.774#231.856
 80	чем	что	PRON	_	Case=Ins	_	_	_	words@mm1972m#@mm1972m#231.856#232.0
 81	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@mm1972m#@mm1972m#232.0#232.118
 82	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#232.118#232.496
@@ -132,8 +132,8 @@
 129	что	что	PRON	_	Case=Acc	_	_	_	words@mm1972m#@mm1972m#283.452#283.569
 130	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@mm1972m#@mm1972m#283.569#283.686
 131	веришь	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#283.686#283.803
-132	то	то есть	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#283.803#283.92
-133	есть	то есть	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#283.92#284.042
+132	то	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#283.803#283.92
+133	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#283.92#284.042
 134	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#284.042#284.273
 135	то	то	PRON	_	_	_	_	_	words@mm1972m#@mm1972m#284.273#284.617
 136	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#284.617#284.779
@@ -163,8 +163,8 @@
 160	будущее	будущее	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#311.377#311.617
 161	?	?	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#311.617#311.862
 162	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#311.862#324.449
-163	нет	нет	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#324.449#324.616
-164	вот	вот	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#324.616#324.783
+163	нет	нет	PART	_	_	_	_	_	words@mm1972m#@mm1972m#324.449#324.616
+164	вот	вот	PART	_	_	_	_	_	words@mm1972m#@mm1972m#324.616#324.783
 165	как	как	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#324.783#324.95
 166	с	с	ADP	_	_	_	_	_	words@mm1972m#@mm1972m#324.95#325.117
 167	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	_	_	_	words@mm1972m#@mm1972m#325.117#325.284
@@ -181,16 +181,16 @@
 178	тяжело	тяжелый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@mm1972m#@mm1972m#329.399#329.591
 179	!	!	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#329.591#329.788
 180	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#329.788#330.007
-181	придётся	приходиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@mm1972m#@mm1972m#330.007#330.482
+181	придётся	прийтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@mm1972m#@mm1972m#330.007#330.482
 182	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#330.482#330.613
-183	придётся	приходиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@mm1972m#@mm1972m#330.613#330.759
+183	придётся	прийтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@mm1972m#@mm1972m#330.613#330.759
 184	наезжать	наезжать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@mm1972m#@mm1972m#330.759#330.905
 185	!	!	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#330.905#331.052
 186	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#331.052#340.052
 187	Вень	Вень	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#340.052#340.19
 188	!	!	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#340.19#340.328
 189	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#340.328#340.684
-190	ааа	ааа	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#340.684#341.003
+190	ааа	а	PART	_	_	_	_	_	words@mm1972m#@mm1972m#340.684#341.003
 191	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#341.003#341.522
 192	чем	что	PRON	_	Case=Ins	_	_	_	words@mm1972m#@mm1972m#341.522#341.775
 193	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@mm1972m#@mm1972m#341.775#342.028
@@ -198,7 +198,7 @@
 195	намереваешься	намереваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@mm1972m#@mm1972m#342.747#343.101
 196	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	words@mm1972m#@mm1972m#343.101#343.455
 197	в	в	ADP	_	_	_	_	_	words@mm1972m#@mm1972m#343.455#343.809
-198	ближайшее	ближайший	ADJ	_	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#343.809#344.344
+198	ближайшее	ближайший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#343.809#344.344
 199	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#344.344#344.786
 200	кроме	кроме	ADP	_	_	_	_	_	words@mm1972m#@mm1972m#344.786#345.052
 201	поиска	поиск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#345.052#345.318
@@ -242,14 +242,14 @@
 239	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#393.207#393.486
 240	?	?	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#393.486#393.766
 241	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#393.766#442.385
-242	то	то есть	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#442.385#442.496
-243	есть	то есть	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#442.496#442.608
+242	то	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#442.385#442.496
+243	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#442.496#442.608
 244	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#442.608#442.866
 245	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#442.866#443.441
-246	аа	аа	X	_	_	_	_	_	words@mm1972m#@mm1972m#443.441#444.016
+246	аа	аа	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#443.441#444.016
 247	гниения	гниение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#444.016#444.591
 248	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#444.591#444.666
-249	ии	ии	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#444.666#444.858
+249	ии	и	CCONJ	_	_	_	_	_	words@mm1972m#@mm1972m#444.666#444.858
 250	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#444.858#445.0
 251	вымирания	вымирание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#445.0#445.642
 252	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#445.642#445.883
@@ -262,7 +262,7 @@
 259	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@mm1972m#@mm1972m#447.437#447.7
 260	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#447.7#462.44
 261	почитай	почитать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#462.44#462.613
-262	стихи	стих	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#462.613#462.786
+262	стихи	стих	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@mm1972m#@mm1972m#462.613#462.786
 263	!	!	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#462.786#462.96
 264	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#462.96#467.51
 265	хорошие	хороший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@mm1972m#@mm1972m#467.51#467.742
@@ -271,7 +271,7 @@
 268	!	!	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#468.206#468.44
 269	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#468.44#487.67
 270	читай	читать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#487.67#487.876
-271	оба	оба	NUM	_	Case=Acc|Gender=Masc	_	_	_	words@mm1972m#@mm1972m#487.876#488.082
+271	оба	оба	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	words@mm1972m#@mm1972m#487.876#488.082
 272	!	!	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#488.082#488.29
 273	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#488.29#502.0
 274	так	так	PART	_	_	_	_	_	words@mm1972m#@mm1972m#502.0#502.121
@@ -283,7 +283,7 @@
 280	давай	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#11.867#12.033
 281	!	!	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#12.033#12.2
 282	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#12.2#30.18
-283	а	а	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#30.18#30.337
+283	а	а	PART	_	_	_	_	_	words@vd1970m#@vd1970m#30.18#30.337
 284	что	что	PRON	_	Case=Acc	_	_	_	words@vd1970m#@vd1970m#30.337#30.494
 285	рассказывать	рассказывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@vd1970m#@vd1970m#30.494#30.651
 286	?	?	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#30.651#30.81
@@ -365,7 +365,7 @@
 362	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#61.765#63.095
 363	национальность	национальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#63.095#64.165
 364	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#64.165#67.535
-365	просто	просто	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#67.535#67.877
+365	просто	просто	PART	_	_	_	_	_	words@vd1970m#@vd1970m#67.535#67.877
 366	психанул	психануть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#67.877#68.219
 367	и	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#68.219#68.561
 368	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#68.561#68.903
@@ -399,7 +399,7 @@
 396	мм	мм	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#81.12#81.33
 397	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#81.33#81.455
 398	действительно	действительно	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#81.455#81.906
-399	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#81.906#82.357
+399	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#81.906#82.357
 400	деревушка	деревушка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#82.357#82.81
 401	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#82.81#82.9
 402	где-то	где-то	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#82.9#83.311
@@ -413,7 +413,7 @@
 410	ээ	ээ	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#85.972#86.097
 411	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#86.097#86.162
 412	под	под	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#86.162#86.529
-413	Гупенском	Гупенск	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#86.529#86.897
+413	Купянском	Купянск	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#86.529#86.897
 414	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#86.897#87.647
 415	Луганской	луганский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#87.647#88.024
 416	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#88.024#88.402
@@ -452,19 +452,19 @@
 449	там	там	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#99.45#99.628
 450	не	не	PART	_	_	_	_	_	words@vd1970m#@vd1970m#99.628#99.806
 451	загоняют	загонять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#99.806#99.984
-452	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#99.984#100.162
+452	вот	вот	PART	_	_	_	_	_	words@vd1970m#@vd1970m#99.984#100.162
 453	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#100.162#100.232
 454	ээ	ээ	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#100.232#100.472
 455	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#100.472#100.587
 456	в	в	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#100.587#100.793
-457	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#100.793#100.999
+457	какие-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#100.793#100.999
 458	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#100.999#101.829
-459	сарайчики	сарайчик	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#101.829#102.614
+459	сарайчики	сарайчик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#101.829#102.614
 460	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#102.614#102.669
 461	и	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#102.669#102.835
 462	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@vd1970m#@vd1970m#102.835#103.001
 463	там	там	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#103.001#103.167
-464	прям	прямо	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#103.167#103.333
+464	прям	прямо	PART	_	_	_	_	_	words@vd1970m#@vd1970m#103.167#103.333
 465	ходят	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#103.333#103.499
 466	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#103.499#103.774
 467	гадят	гадить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#103.774#104.139
@@ -493,7 +493,7 @@
 490	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#133.46#134.75
 491	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#134.75#135.39
 492	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#135.39#135.445
-493	близкие	близкий	ADJ	_	Animacy=Anim|Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@vd1970m#@vd1970m#135.445#135.97
+493	близкие	близкий	NOUN	_	Animacy=Anim|Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@vd1970m#@vd1970m#135.445#135.97
 494	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#135.97#136.965
 495	а	а	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#136.965#137.081
 496	р...	родственник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#137.081#137.217
@@ -552,7 +552,7 @@
 549	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#168.576#168.683
 550	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#168.683#168.79
 551	так	так	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#168.79#168.897
-552	и...	и	PART	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#168.897#169.007
+552	и...	и	PART	_	_	_	_	_	words@vd1970m#@vd1970m#168.897#169.007
 553	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#169.007#169.432
 554	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#169.432#169.601
 555	так	так	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#169.601#169.77
@@ -598,14 +598,14 @@
 595	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#185.407#185.661
 596	!	!	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#185.661#185.918
 597	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#185.918#187.243
-598	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#187.243#187.385
+598	вот	вот	PART	_	_	_	_	_	words@vd1970m#@vd1970m#187.243#187.385
 599	кстати	кстати	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#187.385#187.823
 600	Серёга	Серёга	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#187.823#188.262
 601	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#188.262#188.312
 602	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#188.312#188.462
 603	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#188.462#188.612
 604	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#188.612#189.138
-605	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#189.138#189.353
+605	вот	вот	PART	_	_	_	_	_	words@vd1970m#@vd1970m#189.138#189.353
 606	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@vd1970m#@vd1970m#189.353#189.569
 607	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#189.569#190.113
 608	да	да	PART	_	_	_	_	_	words@vd1970m#@vd1970m#190.113#190.422
@@ -617,8 +617,8 @@
 614	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#192.264#192.358
 615	очень	очень	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#192.358#192.52
 616	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#192.52#192.598
-617	инт...	интересный	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#192.598#192.75
-618	интересный	интересный	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#192.75#193.001
+617	инт...	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#192.598#192.75
+618	интересный	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#192.75#193.001
 619	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#193.001#193.252
 620	про	про	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#193.252#193.503
 621	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	words@vd1970m#@vd1970m#193.503#193.754
@@ -642,7 +642,7 @@
 639	!	!	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#199.237#199.41
 640	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#199.41#201.835
 641	и	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#201.835#201.971
-642	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#201.971#202.107
+642	вот	вот	PART	_	_	_	_	_	words@vd1970m#@vd1970m#201.971#202.107
 643	значит	значить	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#202.107#202.243
 644	Виталька	Виталька	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#202.243#202.379
 645	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#202.379#202.46
@@ -650,7 +650,7 @@
 647	зашёл	зайти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#202.963#203.466
 648	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#203.466#203.697
 649	в	в	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#203.697#203.9
-650	к...	комнату	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#203.9#204.103
+650	к...	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#203.9#204.103
 651	в	в	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#204.103#204.306
 652	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#204.306#204.511
 653	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#204.511#204.986
@@ -697,7 +697,7 @@
 694	а	а	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#216.578#216.799
 695	Виталька	Виталька	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#216.799#217.02
 696	в	в	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#217.02#217.241
-697	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#217.241#217.462
+697	это	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#217.241#217.462
 698	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#217.462#217.683
 699	проснулся	проснуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@vd1970m#@vd1970m#217.683#217.904
 700	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#217.904#218.579
@@ -715,10 +715,10 @@
 712	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#220.506#220.781
 713	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#220.781#220.863
 714	в	в	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#220.863#221.076
-715	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#221.076#221.289
+715	это	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#221.076#221.289
 716	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#221.289#221.502
 717	открыл	открыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#221.502#221.715
-718	прям	прямо	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#221.715#221.932
+718	прям	прямо	PART	_	_	_	_	_	words@vd1970m#@vd1970m#221.715#221.932
 719	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#221.932#223.094
 720	перед	перед	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#223.094#223.35
 721	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#223.35#223.47
@@ -735,7 +735,7 @@
 732	через	через	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#225.477#225.646
 733	у...	у	X	_	_	_	_	_	words@vd1970m#@vd1970m#225.646#225.815
 734	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#225.815#225.965
-735	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#225.965#226.248
+735	всю	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#225.965#226.248
 736	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#226.248#226.531
 737	значит	значит	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#226.531#226.815
 738	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#226.815#226.984
@@ -764,7 +764,7 @@
 761	ну	ну	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#240.92#241.092
 762	!	!	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#241.092#241.264
 763	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#241.264#241.42
-764	там	там	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#241.42#241.705
+764	там	там	PART	_	_	_	_	_	words@vd1970m#@vd1970m#241.42#241.705
 765	тоже	тоже	PART	_	_	_	_	_	words@vd1970m#@vd1970m#241.705#241.99
 766	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#241.99#242.277
 767	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#242.277#242.703
@@ -774,9 +774,9 @@
 771	надо	надо	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#243.348#243.563
 772	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#243.563#245.42
 773	ну	ну	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#245.42#245.667
-774	ии	ии	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#245.667#245.914
+774	ии	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#245.667#245.914
 775	ещё	еще	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#245.914#246.161
-776	там	там	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#246.161#246.408
+776	там	там	PART	_	_	_	_	_	words@vd1970m#@vd1970m#246.161#246.408
 777	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#246.408#247.834
 778	рисую	рисовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#247.834#248.169
 779	да	да	PART	_	_	_	_	_	words@vd1970m#@vd1970m#248.169#248.504
@@ -798,7 +798,7 @@
 795	кто-то	кто-то	PRON	_	Case=Nom	_	_	_	words@vd1970m#@vd1970m#261.558#261.93
 796	спрашивал	спрашивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#261.93#262.302
 797	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#262.302#262.49
-798	там	там	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#262.49#262.746
+798	там	там	PART	_	_	_	_	_	words@vd1970m#@vd1970m#262.49#262.746
 799	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#262.746#262.927
 800	ваше	ваш	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#262.927#263.203
 801	жизненное	жизненный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#263.203#263.479
@@ -819,7 +819,7 @@
 816	ну	ну	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#268.744#268.954
 817	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#268.954#269.164
 818	нн..	не	PART	_	_	_	_	_	words@vd1970m#@vd1970m#269.164#269.375
-819	я...	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#269.375#269.526
+819	й...	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#269.375#269.526
 820	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#269.526#269.677
 821	тогда	тогда	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#269.677#269.828
 822	не	не	PART	_	_	_	_	_	words@vd1970m#@vd1970m#269.828#269.979
@@ -828,11 +828,11 @@
 825	о	о	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#270.25#270.51
 826	чём	что	PRON	_	Case=Loc	_	_	_	words@vd1970m#@vd1970m#270.51#270.77
 827	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@vd1970m#@vd1970m#270.77#271.03
-828	друг	друг	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#271.03#271.29
+828	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#271.03#271.29
 829	друга	друг	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#271.29#271.55
 830	спрашивали	спрашивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#271.55#271.813
 831	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#271.813#271.913
-832	ии	ии	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#271.913#272.026
+832	ии	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#271.913#272.026
 833	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#272.026#272.064
 834	аа	аа	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#272.064#272.327
 835	о	о	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#272.327#272.59
@@ -884,7 +884,7 @@
 881	с	с	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#297.935#298.2
 882	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2	_	_	_	words@vd1970m#@vd1970m#298.2#298.465
 883	маленьким	маленький	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#298.465#298.73
-884	секретиком	секретик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#298.73#298.995
+884	секретиком	секретик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#298.73#298.995
 885	!	!	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#298.995#299.264
 886	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#299.264#306.095
 887	#смеётся#	X	X	_	_	_	_	_	words@vd1970m#@vd1970m#306.095#308.383
@@ -950,7 +950,7 @@
 947	привет	PART	_	_	_	_	_	_	words@vd1970m#@vd1970m#353.912#354.181
 948	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#354.181#356.738
 949	невеста	невеста	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#356.738#357.047
-950	это	это	PART	_	_	_	_	_	words@vd1970m#@vd1970m#357.047#357.356
+950	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#357.047#357.356
 951	очень	очень	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#357.356#357.665
 952	м	м	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#357.665#357.974
 953	больной	больной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#357.974#358.283
@@ -978,11 +978,11 @@
 975	кстати	кстати	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#368.51#368.675
 976	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#368.675#368.84
 977	забыл	забыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#368.84#369.005
-978	чё	что	PRON	_	Case=Acc	_	_	_	words@vd1970m#@vd1970m#369.005#369.17
+978	чё	что	SCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#369.005#369.17
 979	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@vd1970m#@vd1970m#369.17#369.335
 980	спрашивал	спрашивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#369.335#369.5
 981	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#369.5#375.325
-982	а	а	PART	_	_	_	_	_	words@vd1970m#@vd1970m#375.325#375.575
+982	а	а	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#375.325#375.575
 983	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#375.575#375.825
 984	щас	сейчас	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#375.825#376.075
 985	уезжаю	уезжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#376.075#376.325
@@ -997,7 +997,7 @@
 994	здесь	здесь	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#379.225#379.633
 995	проездом	проезд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#379.633#380.042
 996	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#380.042#380.758
-997	ии	ии	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#380.758#381.041
+997	ии	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#380.758#381.041
 998	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#381.041#381.975
 999	надо	надо	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#381.975#382.271
 1000	ехать	ехать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@vd1970m#@vd1970m#382.271#382.567
@@ -1009,15 +1009,15 @@
 1006	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#384.72#384.863
 1007	ведь	ведь	PART	_	_	_	_	_	words@vd1970m#@vd1970m#384.863#385.006
 1008	не	не	PART	_	_	_	_	_	words@vd1970m#@vd1970m#385.006#385.149
-1009	с...	врать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#385.149#385.292
+1009	с...	соврать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#385.149#385.292
 1010	не	не	PART	_	_	_	_	_	words@vd1970m#@vd1970m#385.292#385.435
-1011	соврал	врать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#385.435#385.578
+1011	соврал	соврать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#385.435#385.578
 1012	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#385.578#385.72
 1013	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#385.72#385.984
 1014	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#385.984#386.248
 1015	действительно	действительно	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#386.248#386.512
 1016	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#386.512#386.654
-1017	я...	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#386.654#386.875
+1017	й...	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#386.654#386.875
 1018	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#386.875#387.096
 1019	уезжаю	уезжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#387.096#387.317
 1020	щас	сейчас	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#387.317#387.54
@@ -1057,7 +1057,7 @@
 1054	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	_	_	_	words@vd1970m#@vd1970m#407.085#407.587
 1055	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@vd1970m#@vd1970m#407.587#408.091
 1056	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#408.091#408.787
-1057	э	э	X	_	_	_	_	_	words@vd1970m#@vd1970m#408.787#408.896
+1057	э	э	_	_	_	_	_	_	words@vd1970m#@vd1970m#408.787#408.896
 1058	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#408.896#409.062
 1059	э	э	_	_	_	_	_	_	words@vd1970m#@vd1970m#409.062#409.196
 1060	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#409.196#409.521
@@ -1093,7 +1093,7 @@
 1090	в	в	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#422.271#422.617
 1091	пластилин	пластилин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#422.617#422.963
 1092	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#422.963#423.188
-1093	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#423.188#423.357
+1093	вот	вот	PART	_	_	_	_	_	words@vd1970m#@vd1970m#423.188#423.357
 1094	у	у	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#423.357#423.526
 1095	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#423.526#423.696
 1096	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#423.696#423.797
@@ -1106,7 +1106,7 @@
 1103	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#424.964#425.089
 1104	у	у	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#425.089#425.366
 1105	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#425.366#425.643
-1106	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#425.643#425.92
+1106	вот	вот	PART	_	_	_	_	_	words@vd1970m#@vd1970m#425.643#425.92
 1107	пальцы	палец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#425.92#426.197
 1108	на	на	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#426.197#426.474
 1109	ногах	нога	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	words@vd1970m#@vd1970m#426.474#426.751
@@ -1154,7 +1154,7 @@
 1151	а	а	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#437.106#437.347
 1152	на	на	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#437.347#437.588
 1153	правой	правый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#437.588#437.829
-1154	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#437.829#438.07
+1154	вот	вот	PART	_	_	_	_	_	words@vd1970m#@vd1970m#437.829#438.07
 1155	т...	только	PART	_	_	_	_	_	words@vd1970m#@vd1970m#438.07#438.311
 1156	только	только	PART	_	_	_	_	_	words@vd1970m#@vd1970m#438.311#438.552
 1157	пальцы	палец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#438.552#438.793
@@ -1165,7 +1165,7 @@
 1162	гниение	гниение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#440.179#440.491
 1163	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#440.491#440.583
 1164	собстно	собственно	ADJ	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#440.583#440.904
-1165	это	этот	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#440.904#441.225
+1165	это	это	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#440.904#441.225
 1166	вымирание	вымирание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#441.225#441.546
 1167	!	!	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#441.546#441.867
 1168	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#441.867#450.2
@@ -1194,7 +1194,7 @@
 1191	зачем	зачем	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#458.49#458.69
 1192	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@vd1970m#@vd1970m#458.69#458.89
 1193	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#458.89#460.02
-1194	всё	все	PART	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#460.02#460.163
+1194	всё	всё	PART	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#460.02#460.163
 1195	путаешь	путать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#460.163#460.79
 1196	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#460.79#464.7
 1197	хорошие	хороший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@vd1970m#@vd1970m#464.7#464.94
@@ -1211,9 +1211,9 @@
 1208	стиха	стих	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#482.189#482.429
 1209	всего	всего	PART	_	_	_	_	_	words@vd1970m#@vd1970m#482.429#482.669
 1210	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#482.669#482.909
-1211	сь...	сь...	X	_	_	_	_	_	words@vd1970m#@vd1970m#482.909#483.149
-1212	сь...	сь...	X	_	_	_	_	_	words@vd1970m#@vd1970m#483.149#483.389
-1213	сь...	сь...	X	_	_	_	_	_	words@vd1970m#@vd1970m#483.389#483.63
+1211	сь...	сь	X	_	_	_	_	_	words@vd1970m#@vd1970m#482.909#483.149
+1212	сь...	сь	X	_	_	_	_	_	words@vd1970m#@vd1970m#483.149#483.389
+1213	сь...	сь	X	_	_	_	_	_	words@vd1970m#@vd1970m#483.389#483.63
 1214	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#483.63#483.77
 1215	у	у	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#483.77#484.036
 1216	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@vd1970m#@vd1970m#484.036#484.302
@@ -1230,12 +1230,12 @@
 1227	а	а	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#489.14#489.542
 1228	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#489.542#489.944
 1229	эпиграфы	эпиграф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@vd1970m#@vd1970m#489.944#490.346
-1230	там	там	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#490.346#490.75
+1230	там	там	PART	_	_	_	_	_	words@vd1970m#@vd1970m#490.346#490.75
 1231	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#490.75#490.97
 1232	строчки	строчка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@vd1970m#@vd1970m#490.97#491.375
 1233	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	words@vd1970m#@vd1970m#491.375#491.78
 1234	просто	просто	PART	_	_	_	_	_	words@vd1970m#@vd1970m#491.78#492.185
-1235	там	там	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#492.185#492.59
+1235	там	там	PART	_	_	_	_	_	words@vd1970m#@vd1970m#492.185#492.59
 1236	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#492.59#493.22
 1237	как	как	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#493.22#493.46
 1238	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#493.46#493.63
@@ -1269,8 +1269,8 @@
 1266	не	не	PART	_	_	_	_	_	words@vd1970m#@vd1970m#503.668#503.864
 1267	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#503.864#504.06
 1268	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#504.06#504.86
-1269	один	один	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#504.86#505.13
-1270	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#505.13#505.4
+1269	один	один	DET	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#504.86#505.13
+1270	вот	вот	PART	_	_	_	_	_	words@vd1970m#@vd1970m#505.13#505.4
 1271	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#505.4#505.67
 1272	но	но	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#505.67#505.94
 1273	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@vd1970m#@vd1970m#505.94#506.21
@@ -1307,7 +1307,7 @@
 1304	звёздочно-марочной	звёздочно-марочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#521.463#522.83
 1305	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#522.83#523.2
 1306	и	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#523.2#523.475
-1307	слёзы	слёза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@vd1970m#@vd1970m#523.475#523.75
+1307	слёзы	слеза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@vd1970m#@vd1970m#523.475#523.75
 1308	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#523.75#523.93
 1309	и	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#523.93#524.15
 1310	дождь	дождь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#524.15#524.37
@@ -1369,7 +1369,7 @@
 1366	в	в	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#541.53#541.766
 1367	шубке	шубка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#541.766#542.002
 1368	из	из	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#542.002#542.238
-1369	горностая	горностай	ADJ	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#542.238#542.474
+1369	горностая	горностай	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#542.238#542.474
 1370	!	!	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#542.474#542.71
 1371	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#542.71#543.09
 1372	королева	королева	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#543.09#543.476
@@ -1385,17 +1385,17 @@
 1382	поделать	поделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@vd1970m#@vd1970m#547.49#547.92
 1383	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#547.92#548.725
 1384	всему	весь	DET	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#548.725#549.092
-1385	своё	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#549.092#549.459
-1386	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#549.459#549.826
+1385	своё	свой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#549.092#549.459
+1386	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#549.459#549.826
 1387	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#549.826#550.314
 1388	кому	кто	PRON	_	Case=Dat	_	_	_	words@vd1970m#@vd1970m#550.314#550.639
 1389	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#550.639#550.802
-1390	е	е	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#550.802#550.989
+1390	е	е	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#550.802#550.989
 1391	один	один	NUM	_	Case=Nom|Gender=Masc	_	_	_	words@vd1970m#@vd1970m#550.989#551.177
 1392	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#551.177#551.69
 1393	кому-то	кто-то	PRON	_	Case=Dat	_	_	_	words@vd1970m#@vd1970m#551.69#551.95
 1394	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#551.95#552.069
-1395	е	е	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#552.069#552.292
+1395	е	е	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#552.069#552.292
 1396	два	два	NUM	_	Case=Nom|Gender=Masc	_	_	_	words@vd1970m#@vd1970m#552.292#552.516
 1397	//	//	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#552.516#553.354
 1398	в	в	ADP	_	_	_	_	_	words@vd1970m#@vd1970m#553.354#553.608
@@ -1411,7 +1411,7 @@
 1408	сад	сад	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#556.263#556.567
 1409	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#556.567#557.442
 1410	там	там	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#557.442#557.798
-1411	сыро	сырой	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vd1970m#@vd1970m#557.798#558.155
+1411	сыро	сырой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vd1970m#@vd1970m#557.798#558.155
 1412	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#558.155#558.355
 1413	темно	темный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vd1970m#@vd1970m#558.355#558.693
 1414	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#558.693#558.981
@@ -1423,7 +1423,7 @@
 1420	как	как	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#560.981#561.287
 1421	жаль	жаль	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#561.287#561.594
 1422	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#561.594#561.769
-1423	что	что	PRON	_	Case=Acc	_	_	_	words@vd1970m#@vd1970m#561.769#562.144
+1423	что	что	SCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#561.769#562.144
 1424	ещё	еще	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#562.144#562.519
 1425	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#562.519#562.607
 1426	не	не	PART	_	_	_	_	_	words@vd1970m#@vd1970m#562.607#562.901
