@@ -55,8 +55,8 @@
 52	где	где	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#123.307#123.434
 53	?	?	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#123.434#123.562
 54	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#123.562#163.212
-55	то	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#163.212#163.36
-56	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#163.36#163.545
+55	то	то	PRON	_	_	_	_	_	words@mm1972m#@mm1972m#163.212#163.36
+56	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#163.36#163.545
 57	сразу	сразу	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#163.545#164.086
 58	напрашивается	напрашиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@mm1972m#@mm1972m#164.086#164.627
 59	аналогия	аналогия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@mm1972m#@mm1972m#164.627#165.168
@@ -71,11 +71,11 @@
 68	ли	ли	PART	_	_	_	_	_	words@mm1972m#@mm1972m#168.931#169.09
 69	?	?	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#169.09#169.249
 70	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#169.249#180.975
-71	то	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#180.975#181.073
-72	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#181.073#181.213
+71	то	то	PRON	_	_	_	_	_	words@mm1972m#@mm1972m#180.975#181.073
+72	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#181.073#181.213
 73	это	это	PART	_	_	_	_	_	words@mm1972m#@mm1972m#181.213#181.344
-74	по	по сути	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#181.344#181.454
-75	сути	по сути	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#181.454#181.902
+74	по	по	ADP	_	_	_	_	_	words@mm1972m#@mm1972m#181.344#181.454
+75	сути	суть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	words@mm1972m#@mm1972m#181.454#181.902
 76	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#181.902#182.35
 77	подсознание	подсознание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@mm1972m#@mm1972m#182.35#182.799
 78	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#182.799#231.774
@@ -132,8 +132,8 @@
 129	что	что	PRON	_	Case=Acc	_	_	_	words@mm1972m#@mm1972m#283.452#283.569
 130	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@mm1972m#@mm1972m#283.569#283.686
 131	веришь	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#283.686#283.803
-132	то	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#283.803#283.92
-133	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#283.92#284.042
+132	то	то	PRON	_	_	_	_	_	words@mm1972m#@mm1972m#283.803#283.92
+133	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#283.92#284.042
 134	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#284.042#284.273
 135	то	то	PRON	_	_	_	_	_	words@mm1972m#@mm1972m#284.273#284.617
 136	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#284.617#284.779
@@ -242,8 +242,8 @@
 239	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#393.207#393.486
 240	?	?	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#393.486#393.766
 241	//	//	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#393.766#442.385
-242	то	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#442.385#442.496
-243	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@mm1972m#@mm1972m#442.496#442.608
+242	то	то	PRON	_	_	_	_	_	words@mm1972m#@mm1972m#442.385#442.496
+243	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mm1972m#@mm1972m#442.496#442.608
 244	/	/	PUNCT	_	_	_	_	_	words@mm1972m#@mm1972m#442.608#442.866
 245	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mm1972m#@mm1972m#442.866#443.441
 246	аа	аа	INTJ	_	_	_	_	_	words@mm1972m#@mm1972m#443.441#444.016
@@ -385,10 +385,10 @@
 382	вот	вот	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#73.467#73.67
 383	Дыркин	Дыркин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#73.86#74.195
 384	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#74.195#74.285
-385	ии	ии	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#74.285#74.445
+385	ии	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#74.285#74.445
 386	Веня	Веня	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vd1970m#@vd1970m#74.445#74.605
 387	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#74.605#74.72
-388	ии	ии	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#74.72#74.987
+388	ии	и	CCONJ	_	_	_	_	_	words@vd1970m#@vd1970m#74.72#74.987
 389	село	село	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#74.987#75.255
 390	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#75.255#75.4
 391	Максютовка	Максютовка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vd1970m#@vd1970m#75.4#76.23
@@ -988,8 +988,8 @@
 985	уезжаю	уезжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#376.075#376.325
 986	куда-то	куда-то	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#376.325#376.575
 987	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#376.575#378.234
-988	то	то есть	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#378.234#378.317
-989	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#378.317#378.4
+988	то	то	PRON	_	_	_	_	_	words@vd1970m#@vd1970m#378.234#378.317
+989	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#378.317#378.4
 990	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#378.4#378.542
 991	эмм	эмм	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#378.542#378.725
 992	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#378.725#378.817
@@ -1082,8 +1082,8 @@
 1079	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#418.145#419.02
 1080	э	э	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#419.02#419.154
 1081	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#419.154#419.204
-1082	то	то есть	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#419.204#419.454
-1083	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@vd1970m#@vd1970m#419.454#419.704
+1082	то	то	PRON	_	_	_	_	_	words@vd1970m#@vd1970m#419.204#419.454
+1083	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vd1970m#@vd1970m#419.454#419.704
 1084	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vd1970m#@vd1970m#419.704#419.954
 1085	/	/	PUNCT	_	_	_	_	_	words@vd1970m#@vd1970m#419.954#420.588
 1086	мм	мм	INTJ	_	_	_	_	_	words@vd1970m#@vd1970m#420.588#420.879
