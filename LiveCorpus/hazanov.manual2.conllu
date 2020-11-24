@@ -229,8 +229,8 @@
 226	жизненно	жизненно	ADV	_	Degree=Pos	_	_	_	words@dap1994m#@dap1994m#1382.996#1383.432
 227	необходима	необходимый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	words@dap1994m#@dap1994m#1383.432#1383.868
 228	иначе	иначе	SCONJ	_	_	_	_	_	words@dap1994m#@dap1994m#1383.868#1384.304
-229	то	то есть	ADV	_	Degree=Pos	_	_	_	words@dap1994m#@dap1994m#1384.304#1384.74
-230	есть	то есть	ADV	_	Degree=Pos	_	_	_	words@dap1994m#@dap1994m#1384.74#1385.176
+229	то	то	PRON	_	_	_	_	_	words@dap1994m#@dap1994m#1384.304#1384.74
+230	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dap1994m#@dap1994m#1384.74#1385.176
 231	по	по факту	ADV	_	Degree=Pos	_	_	_	words@dap1994m#@dap1994m#1385.176#1385.612
 232	факту	по факту	ADV	_	Degree=Pos	_	_	_	words@dap1994m#@dap1994m#1385.612#1386.048
 233	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dap1994m#@dap1994m#1386.048#1386.484
@@ -252,7 +252,7 @@
 249	варианта	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@dap1994m#@dap1994m#1393.024#1393.48
 250	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dap1994m#@dap1994m#1400.22#1400.507
 251	г...	говорю	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dap1994m#@dap1994m#1400.507#1400.794
-252	кон...	кон	INTJ	_	_	_	_	_	words@dap1994m#@dap1994m#1400.794#1401.081
+252	кон...	кон	X	_	_	_	_	_	words@dap1994m#@dap1994m#1400.794#1401.081
 253	опять	опять	ADV	_	Degree=Pos	_	_	_	words@dap1994m#@dap1994m#1401.081#1401.368
 254	же	же	PART	_	_	_	_	_	words@dap1994m#@dap1994m#1401.368#1401.655
 255	не	не	PART	_	_	_	_	_	words@dap1994m#@dap1994m#1401.655#1401.942
@@ -283,8 +283,8 @@
 280	заведений	заведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	words@gvh1945m#@gvh1945m#1152.603#1153.086
 281	не	не	PART	_	_	_	_	_	words@gvh1945m#@gvh1945m#1153.086#1153.569
 282	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@gvh1945m#@gvh1945m#1153.569#1154.052
-283	потому	потому что	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1154.052#1154.535
-284	что	потому что	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1154.535#1155.018
+283	потому	потому	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1154.052#1154.535
+284	что	что	PRON	_	_	_	_	_	words@gvh1945m#@gvh1945m#1154.535#1155.018
 285	ни...	ни	INTJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1155.018#1155.501
 286	не	не	PART	_	_	_	_	_	words@gvh1945m#@gvh1945m#1155.501#1155.984
 287	разрешенное	разрешить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	words@gvh1945m#@gvh1945m#1155.984#1156.467
@@ -450,8 +450,8 @@
 447	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@gvh1945m#@gvh1945m#1247.404#1247.901
 448	многократно	многократно	ADV	_	Degree=Pos	_	_	_	words@gvh1945m#@gvh1945m#1247.901#1248.398
 449	/	/	PUNCT	_	_	_	_	_	words@gvh1945m#@gvh1945m#1248.398#1248.895
-450	потому	потому что	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1248.895#1249.392
-451	что	потому что	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1249.392#1249.9
+450	потому	потому	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1248.895#1249.392
+451	что	что	PRON	_	_	_	_	_	words@gvh1945m#@gvh1945m#1249.392#1249.9
 452	обязательно	обязательно	ADV	_	Degree=Pos	_	_	_	words@gvh1945m#@gvh1945m#1251.1#1251.751
 453	бывали	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@gvh1945m#@gvh1945m#1251.751#1252.402
 454	/	/	PUNCT	_	_	_	_	_	words@gvh1945m#@gvh1945m#1252.402#1253.053
@@ -552,8 +552,8 @@
 549	не	не	PART	_	_	_	_	_	words@gvh1945m#@gvh1945m#1305.246#1305.754
 550	девался	деваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@gvh1945m#@gvh1945m#1305.754#1306.262
 551	э	э	INTJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1306.262#1306.77
-552	п...	п	X	_	_	_	_	_	words@gvh1945m#@gvh1945m#1306.77#1307.278
-553	п...	п	X	_	_	_	_	_	words@gvh1945m#@gvh1945m#1307.278#1307.786
+552	п...	при	X	_	_	_	_	_	words@gvh1945m#@gvh1945m#1306.77#1307.278
+553	п...	при	X	_	_	_	_	_	words@gvh1945m#@gvh1945m#1307.278#1307.786
 554	при	при	ADP	_	_	_	_	_	words@gvh1945m#@gvh1945m#1307.786#1308.294
 555	всём	всё	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@gvh1945m#@gvh1945m#1308.294#1308.802
 556	при	при	ADP	_	_	_	_	_	words@gvh1945m#@gvh1945m#1308.802#1309.31
@@ -736,8 +736,8 @@
 733	которой	который	PRON	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@gvh1945m#@gvh1945m#1463.648#1464.194
 734	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@gvh1945m#@gvh1945m#1464.194#1464.74
 735	находимся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@gvh1945m#@gvh1945m#1464.74#1465.286
-736	птотму	пототму что	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1465.286#1465.832
-737	что	потому что	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1465.832#1466.378
+736	птотму	потому	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1465.286#1465.832
+737	что	что	PRON	_	_	_	_	_	words@gvh1945m#@gvh1945m#1465.832#1466.378
 738	если	если	SCONJ	_	_	_	_	_	words@gvh1945m#@gvh1945m#1466.378#1466.924
 739	сегодня	сегодня	ADV	_	Degree=Pos	_	_	_	words@gvh1945m#@gvh1945m#1466.924#1467.47
 740	опять	опять	ADV	_	Degree=Pos	_	_	_	words@gvh1945m#@gvh1945m#1467.47#1468.016
