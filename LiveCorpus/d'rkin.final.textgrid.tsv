@@ -69,7 +69,7 @@ text@vd1970m	@vd1970m	317.263	318.319	не ну может / найдём //
 text@vd1970m	@vd1970m	320.18	321.18	вечером может //
 text@vd1970m	@vd1970m	333.606	334.539	умными словами! //
 text@vd1970m	@vd1970m	336.875	338.29	ну давай ну / как получится! //
-text@vd1970m	@vd1970m	348.287	354.287	это кстати очень больной в... вопрос и / пользуясь случаем / я хчу передать привет / можно? / привет! // 
+text@vd1970m	@vd1970m	348.287	354.287	это кстати очень больной в... вопрос и / пользуясь случаем / я хочу передать привет / можно? / привет! // 
 text@vd1970m	@vd1970m	356.771	362.356	невеста это очень м больной вопрос / ммм / и здесь очень много можно разговаривать по этому поводу //
 text@vd1970m	@vd1970m	364.444	365.465	но я думаю не стоит //
 text@vd1970m	@vd1970m	368.266	369.657	а кстати я забыл чё ты спрашивал //
@@ -92,7 +92,7 @@ text@vd1970m	@vd1970m	489.205	492.727	а есть эпиграфы там / ст
 text@vd1970m	@vd1970m	493.281	498.607	как про / я на север пошёл от дерева / про / революция феминизация //
 text@vd1970m	@vd1970m	499.846	500.955	но они все похабные //
 text@vd1970m	@vd1970m	501.921	504.117	про девочку с фл... с флейтой я не помню //
-text@vd1970m	@vd1970m	504.834	511.334	один вот знаю но он ткой / я не помню кто его написал / может и я //
+text@vd1970m	@vd1970m	504.834	511.334	один вот знаю но он такой / я не помню кто его написал / может и я //
 text@vd1970m	@vd1970m	514.486	518.095	как по Есенину / тоскливо / и сказочно //
 text@vd1970m	@vd1970m	518.497	520.279	в замке уютный бардак //
 text@vd1970m	@vd1970m	520.769	525.073	каплей последней звёздочно-марочно / и слёзы / и дождь / и коньяк //
@@ -793,7 +793,9 @@ words@vd1970m	@vd1970m	206.8	207.01	/
 words@vd1970m	@vd1970m	207.01	207.115	аа
 words@vd1970m	@vd1970m	207.115	207.215	/
 words@vd1970m	@vd1970m	207.215	207.75	Серёга
-words@vd1970m	@vd1970m	207.75	208.615	стучался-стучался
+words@vd1970m	@vd1970m	207.75	208.038	стучался
+words@vd1970m	@vd1970m	208.038	208.326	-
+words@vd1970m	@vd1970m	208.326	208.615	стучался
 words@vd1970m	@vd1970m	208.615	209.675	/
 words@vd1970m	@vd1970m	209.675	209.95	а
 words@vd1970m	@vd1970m	209.95	210.32	Виталька
@@ -1082,7 +1084,7 @@ words@vd1970m	@vd1970m	350.447	350.717	пользуясь
 words@vd1970m	@vd1970m	350.717	350.987	случаем
 words@vd1970m	@vd1970m	350.987	351.9	/
 words@vd1970m	@vd1970m	351.9	352.01	я
-words@vd1970m	@vd1970m	352.01	352.165	хчу
+words@vd1970m	@vd1970m	352.01	352.165	хочу
 words@vd1970m	@vd1970m	352.165	352.53	передать
 words@vd1970m	@vd1970m	352.53	352.77	привет
 words@vd1970m	@vd1970m	352.77	352.94	/
@@ -1437,7 +1439,7 @@ words@vd1970m	@vd1970m	505.176	505.518	вот
 words@vd1970m	@vd1970m	505.518	505.86	знаю
 words@vd1970m	@vd1970m	505.86	506.202	но
 words@vd1970m	@vd1970m	506.202	506.544	он
-words@vd1970m	@vd1970m	506.544	506.886	ткой
+words@vd1970m	@vd1970m	506.544	506.886	такой
 words@vd1970m	@vd1970m	506.886	507.228	/
 words@vd1970m	@vd1970m	507.228	507.422	я
 words@vd1970m	@vd1970m	507.422	507.554	не
@@ -1469,7 +1471,9 @@ words@vd1970m	@vd1970m	519.685	519.982	/
 words@vd1970m	@vd1970m	519.982	520.279	/
 words@vd1970m	@vd1970m	520.769	521.076	каплей
 words@vd1970m	@vd1970m	521.076	521.383	последней
-words@vd1970m	@vd1970m	521.383	522.754	звёздочно-марочно
+words@vd1970m	@vd1970m	521.383	521.84	звёздочно
+words@vd1970m	@vd1970m	521.84	522.297	-
+words@vd1970m	@vd1970m	522.297	522.754	марочной
 words@vd1970m	@vd1970m	522.754	523.054	/
 words@vd1970m	@vd1970m	523.054	523.255	и
 words@vd1970m	@vd1970m	523.255	523.456	слёзы
@@ -1688,7 +1692,7 @@ pos@mm1972m	@mm1972m	169.05	169.14	PUNCT
 pos@mm1972m	@mm1972m	169.14	169.282	PUNCT
 pos@mm1972m	@mm1972m	180.904	181.025	PRON
 pos@mm1972m	@mm1972m	181.025	181.115	VERB
-pos@mm1972m	@mm1972m	181.115	181.235	PRON
+pos@mm1972m	@mm1972m	181.115	181.235	PART
 pos@mm1972m	@mm1972m	181.235	181.32	ADP
 pos@mm1972m	@mm1972m	181.32	181.505	NOUN
 pos@mm1972m	@mm1972m	181.505	181.75	VERB
@@ -1721,7 +1725,7 @@ pos@mm1972m	@mm1972m	258.679	258.8	INTJ
 pos@mm1972m	@mm1972m	258.8	258.895	PUNCT
 pos@mm1972m	@mm1972m	258.895	259.03	PRON
 pos@mm1972m	@mm1972m	259.03	259.275	VERB
-pos@mm1972m	@mm1972m	259.275	259.91	SCONJ
+pos@mm1972m	@mm1972m	259.275	259.91	ADV
 pos@mm1972m	@mm1972m	259.91	260.17	PUNCT
 pos@mm1972m	@mm1972m	260.17	260.263	PUNCT
 pos@mm1972m	@mm1972m	267.829	267.971	PART
@@ -1794,7 +1798,7 @@ pos@mm1972m	@mm1972m	324.996	325.261	ADV
 pos@mm1972m	@mm1972m	325.261	325.415	ADP
 pos@mm1972m	@mm1972m	325.415	325.625	PRON
 pos@mm1972m	@mm1972m	325.625	326.029	VERB
-pos@mm1972m	@mm1972m	326.029	326.433	ADV
+pos@mm1972m	@mm1972m	326.029	326.433	VERB
 pos@mm1972m	@mm1972m	326.433	326.837	PUNCT
 pos@mm1972m	@mm1972m	326.837	327.935	PUNCT
 pos@mm1972m	@mm1972m	327.935	328.11	PRON
@@ -1911,7 +1915,7 @@ pos@mm1972m	@mm1972m	502.182	502.41	PRON
 pos@mm1972m	@mm1972m	502.41	502.638	PART
 pos@mm1972m	@mm1972m	502.638	502.868	ADJ
 pos@mm1972m	@mm1972m	502.868	502.911	PUNCT
-pos@vd1970m	@vd1970m	11.875	11.972	VERB
+pos@vd1970m	@vd1970m	11.875	11.972	PART
 pos@vd1970m	@vd1970m	11.972	12.069	PUNCT
 pos@vd1970m	@vd1970m	12.069	12.166	PUNCT
 pos@vd1970m	@vd1970m	12.166	12.265	PUNCT
@@ -1929,7 +1933,7 @@ pos@vd1970m	@vd1970m	34.12	34.423	VERB
 pos@vd1970m	@vd1970m	34.423	34.726	PART
 pos@vd1970m	@vd1970m	34.726	35.029	PUNCT
 pos@vd1970m	@vd1970m	35.029	35.332	PUNCT
-pos@vd1970m	@vd1970m	35.332	35.636	X
+pos@vd1970m	@vd1970m	35.332	35.636	VERB
 pos@vd1970m	@vd1970m	35.636	35.751	PUNCT
 pos@vd1970m	@vd1970m	35.751	36.045	PUNCT
 pos@vd1970m	@vd1970m	38.858	38.994	VERB
@@ -1937,7 +1941,7 @@ pos@vd1970m	@vd1970m	38.994	39.126	PRON
 pos@vd1970m	@vd1970m	39.126	39.242	ADP
 pos@vd1970m	@vd1970m	39.242	39.435	DET
 pos@vd1970m	@vd1970m	39.435	39.628	PART
-pos@vd1970m	@vd1970m	39.628	39.821	PRON
+pos@vd1970m	@vd1970m	39.628	39.821	PART
 pos@vd1970m	@vd1970m	39.821	40.014	NOUN
 pos@vd1970m	@vd1970m	40.014	40.207	AUX
 pos@vd1970m	@vd1970m	40.207	40.4	PUNCT
@@ -2006,7 +2010,7 @@ pos@vd1970m	@vd1970m	71.27	71.347	PUNCT
 pos@vd1970m	@vd1970m	71.347	71.471	PUNCT
 pos@vd1970m	@vd1970m	73.074	73.307	CCONJ
 pos@vd1970m	@vd1970m	73.307	73.54	VERB
-pos@vd1970m	@vd1970m	73.54	73.773	INTJ
+pos@vd1970m	@vd1970m	73.54	73.773	PART
 pos@vd1970m	@vd1970m	73.773	74.006	PROPN
 pos@vd1970m	@vd1970m	74.006	74.239	PUNCT
 pos@vd1970m	@vd1970m	74.239	74.472	CCONJ
@@ -2064,7 +2068,7 @@ pos@vd1970m	@vd1970m	94.964	95.2	ADJ
 pos@vd1970m	@vd1970m	95.2	95.264	PUNCT
 pos@vd1970m	@vd1970m	95.264	95.535	PRON
 pos@vd1970m	@vd1970m	95.535	95.752	PUNCT
-pos@vd1970m	@vd1970m	95.752	96.169	INTJ
+pos@vd1970m	@vd1970m	95.752	96.169	ADV
 pos@vd1970m	@vd1970m	96.169	96.586	ADV
 pos@vd1970m	@vd1970m	96.586	97.003	NOUN
 pos@vd1970m	@vd1970m	97.003	97.42	INTJ
@@ -2076,7 +2080,7 @@ pos@vd1970m	@vd1970m	99.088	99.211	PRON
 pos@vd1970m	@vd1970m	99.211	99.364	ADV
 pos@vd1970m	@vd1970m	99.364	99.761	PART
 pos@vd1970m	@vd1970m	99.761	100.158	VERB
-pos@vd1970m	@vd1970m	100.158	100.323	INTJ
+pos@vd1970m	@vd1970m	100.158	100.323	PART
 pos@vd1970m	@vd1970m	100.323	100.405	PUNCT
 pos@vd1970m	@vd1970m	100.405	100.552	INTJ
 pos@vd1970m	@vd1970m	100.552	100.694	PUNCT
@@ -2175,7 +2179,7 @@ pos@vd1970m	@vd1970m	161.795	161.857	CCONJ
 pos@vd1970m	@vd1970m	161.857	162.023	PRON
 pos@vd1970m	@vd1970m	162.023	162.109	PUNCT
 pos@vd1970m	@vd1970m	162.109	162.225	PUNCT
-pos@vd1970m	@vd1970m	168.688	168.83	INTJ
+pos@vd1970m	@vd1970m	168.688	168.83	PART
 pos@vd1970m	@vd1970m	168.83	168.925	PRON
 pos@vd1970m	@vd1970m	168.925	169.07	ADV
 pos@vd1970m	@vd1970m	169.07	169.235	PART
@@ -2198,7 +2202,7 @@ pos@vd1970m	@vd1970m	172.3	172.375	PUNCT
 pos@vd1970m	@vd1970m	172.375	172.775	ADV
 pos@vd1970m	@vd1970m	172.775	173.265	ADJ
 pos@vd1970m	@vd1970m	173.265	173.405	PUNCT
-pos@vd1970m	@vd1970m	173.405	173.729	ADV
+pos@vd1970m	@vd1970m	173.405	173.729	VERB
 pos@vd1970m	@vd1970m	173.729	173.88	VERB
 pos@vd1970m	@vd1970m	173.88	174.005	PART
 pos@vd1970m	@vd1970m	174.005	174.352	VERB
@@ -2254,7 +2258,7 @@ pos@vd1970m	@vd1970m	193.359	193.548	ADP
 pos@vd1970m	@vd1970m	193.548	193.737	PRON
 pos@vd1970m	@vd1970m	193.737	193.926	AUX
 pos@vd1970m	@vd1970m	193.926	194.115	VERB
-pos@vd1970m	@vd1970m	194.115	194.304	INTJ
+pos@vd1970m	@vd1970m	194.115	194.304	ADV
 pos@vd1970m	@vd1970m	194.304	194.493	PUNCT
 pos@vd1970m	@vd1970m	194.493	194.696	PUNCT
 pos@vd1970m	@vd1970m	195.903	196.64	X
@@ -2273,8 +2277,8 @@ pos@vd1970m	@vd1970m	199.295	199.365	PUNCT
 pos@vd1970m	@vd1970m	199.365	199.44	PUNCT
 pos@vd1970m	@vd1970m	199.44	199.488	PUNCT
 pos@vd1970m	@vd1970m	201.81	201.875	CCONJ
-pos@vd1970m	@vd1970m	201.875	202.085	INTJ
-pos@vd1970m	@vd1970m	202.085	202.363	INTJ
+pos@vd1970m	@vd1970m	201.875	202.085	PART
+pos@vd1970m	@vd1970m	202.085	202.363	ADV
 pos@vd1970m	@vd1970m	202.363	202.565	PROPN
 pos@vd1970m	@vd1970m	202.565	202.705	PUNCT
 pos@vd1970m	@vd1970m	202.705	202.83	PRON
@@ -2297,7 +2301,9 @@ pos@vd1970m	@vd1970m	206.8	207.01	PUNCT
 pos@vd1970m	@vd1970m	207.01	207.115	INTJ
 pos@vd1970m	@vd1970m	207.115	207.215	PUNCT
 pos@vd1970m	@vd1970m	207.215	207.75	PROPN
-pos@vd1970m	@vd1970m	207.75	208.615	VERB
+pos@vd1970m	@vd1970m	207.75	208.038	VERB
+pos@vd1970m	@vd1970m	208.038	208.326	PUNCT
+pos@vd1970m	@vd1970m	208.326	208.615	VERB
 pos@vd1970m	@vd1970m	208.615	209.675	PUNCT
 pos@vd1970m	@vd1970m	209.675	209.95	CCONJ
 pos@vd1970m	@vd1970m	209.95	210.32	PROPN
@@ -2367,7 +2373,7 @@ pos@vd1970m	@vd1970m	225.325	225.49	X
 pos@vd1970m	@vd1970m	225.49	225.752	PUNCT
 pos@vd1970m	@vd1970m	225.752	226.014	DET
 pos@vd1970m	@vd1970m	226.014	226.495	NOUN
-pos@vd1970m	@vd1970m	226.495	226.895	INTJ
+pos@vd1970m	@vd1970m	226.495	226.895	ADV
 pos@vd1970m	@vd1970m	226.895	227.255	X
 pos@vd1970m	@vd1970m	227.255	227.8	PUNCT
 pos@vd1970m	@vd1970m	227.8	228.01	NOUN
@@ -2397,14 +2403,14 @@ pos@vd1970m	@vd1970m	239.56	239.639	PUNCT
 pos@vd1970m	@vd1970m	240.89	240.98	INTJ
 pos@vd1970m	@vd1970m	240.98	241.06	PUNCT
 pos@vd1970m	@vd1970m	241.06	241.15	PUNCT
-pos@vd1970m	@vd1970m	241.15	241.295	ADV
+pos@vd1970m	@vd1970m	241.15	241.295	PART
 pos@vd1970m	@vd1970m	241.295	241.46	PART
 pos@vd1970m	@vd1970m	241.46	242.005	NOUN
 pos@vd1970m	@vd1970m	242.005	242.885	PUNCT
 pos@vd1970m	@vd1970m	242.885	243.14	INTJ
 pos@vd1970m	@vd1970m	243.14	243.345	PART
 pos@vd1970m	@vd1970m	243.345	243.465	PART
-pos@vd1970m	@vd1970m	243.465	243.585	ADV
+pos@vd1970m	@vd1970m	243.465	243.585	VERB
 pos@vd1970m	@vd1970m	243.585	243.64	PUNCT
 pos@vd1970m	@vd1970m	243.64	243.686	PUNCT
 pos@vd1970m	@vd1970m	245.383	245.57	INTJ
@@ -2419,9 +2425,9 @@ pos@vd1970m	@vd1970m	248.88	249.7	PUNCT
 pos@vd1970m	@vd1970m	249.7	250.01	ADV
 pos@vd1970m	@vd1970m	250.01	250.045	PUNCT
 pos@vd1970m	@vd1970m	250.045	250.063	PUNCT
-pos@vd1970m	@vd1970m	256.419	256.596	INTJ
+pos@vd1970m	@vd1970m	256.419	256.596	PART
 pos@vd1970m	@vd1970m	256.596	256.773	NOUN
-pos@vd1970m	@vd1970m	256.773	256.95	PRON
+pos@vd1970m	@vd1970m	256.773	256.95	PART
 pos@vd1970m	@vd1970m	256.95	257.2	PRON
 pos@vd1970m	@vd1970m	257.2	257.255	PUNCT
 pos@vd1970m	@vd1970m	257.255	257.295	PUNCT
@@ -2476,7 +2482,7 @@ pos@vd1970m	@vd1970m	272.875	273.06	VERB
 pos@vd1970m	@vd1970m	273.06	273.245	PUNCT
 pos@vd1970m	@vd1970m	273.245	273.446	PUNCT
 pos@vd1970m	@vd1970m	274.197	274.399	NOUN
-pos@vd1970m	@vd1970m	274.399	274.601	PRON
+pos@vd1970m	@vd1970m	274.399	274.601	PART
 pos@vd1970m	@vd1970m	274.601	274.803	ADV
 pos@vd1970m	@vd1970m	274.803	275.005	PUNCT
 pos@vd1970m	@vd1970m	275.005	275.207	VERB
@@ -2544,7 +2550,7 @@ pos@vd1970m	@vd1970m	314.085	314.159	PUNCT
 pos@vd1970m	@vd1970m	315.141	315.329	INTJ
 pos@vd1970m	@vd1970m	315.329	315.517	PUNCT
 pos@vd1970m	@vd1970m	315.517	315.705	PART
-pos@vd1970m	@vd1970m	315.705	315.893	PART
+pos@vd1970m	@vd1970m	315.705	315.893	CCONJ
 pos@vd1970m	@vd1970m	315.893	316.081	ADV
 pos@vd1970m	@vd1970m	316.081	316.269	PART
 pos@vd1970m	@vd1970m	316.269	316.457	PUNCT
@@ -2566,7 +2572,7 @@ pos@vd1970m	@vd1970m	334.4	334.45	PUNCT
 pos@vd1970m	@vd1970m	334.45	334.495	PUNCT
 pos@vd1970m	@vd1970m	334.495	334.539	PUNCT
 pos@vd1970m	@vd1970m	336.875	337.061	INTJ
-pos@vd1970m	@vd1970m	337.061	337.247	VERB
+pos@vd1970m	@vd1970m	337.061	337.247	PART
 pos@vd1970m	@vd1970m	337.247	337.433	INTJ
 pos@vd1970m	@vd1970m	337.433	337.619	PUNCT
 pos@vd1970m	@vd1970m	337.619	337.805	ADV
@@ -2590,10 +2596,10 @@ pos@vd1970m	@vd1970m	352.01	352.165	VERB
 pos@vd1970m	@vd1970m	352.165	352.53	VERB
 pos@vd1970m	@vd1970m	352.53	352.77	NOUN
 pos@vd1970m	@vd1970m	352.77	352.94	PUNCT
-pos@vd1970m	@vd1970m	352.94	353.22	ADV
+pos@vd1970m	@vd1970m	352.94	353.22	VERB
 pos@vd1970m	@vd1970m	353.22	353.62	PUNCT
 pos@vd1970m	@vd1970m	353.62	353.71	PUNCT
-pos@vd1970m	@vd1970m	353.71	353.975	PART
+pos@vd1970m	@vd1970m	353.71	353.975	NOUN
 pos@vd1970m	@vd1970m	353.975	354.11	PUNCT
 pos@vd1970m	@vd1970m	354.11	354.18	PUNCT
 pos@vd1970m	@vd1970m	354.18	354.287	PUNCT
@@ -2610,7 +2616,7 @@ pos@vd1970m	@vd1970m	359.21	359.305	CCONJ
 pos@vd1970m	@vd1970m	359.305	359.51	ADV
 pos@vd1970m	@vd1970m	359.51	359.715	ADV
 pos@vd1970m	@vd1970m	359.715	359.9	ADV
-pos@vd1970m	@vd1970m	359.9	360.11	ADV
+pos@vd1970m	@vd1970m	359.9	360.11	VERB
 pos@vd1970m	@vd1970m	360.11	360.715	VERB
 pos@vd1970m	@vd1970m	360.715	360.945	ADP
 pos@vd1970m	@vd1970m	360.945	361.297	DET
@@ -2621,7 +2627,7 @@ pos@vd1970m	@vd1970m	364.444	364.589	CCONJ
 pos@vd1970m	@vd1970m	364.589	364.734	PRON
 pos@vd1970m	@vd1970m	364.734	364.879	VERB
 pos@vd1970m	@vd1970m	364.879	365.024	PART
-pos@vd1970m	@vd1970m	365.024	365.169	AUX
+pos@vd1970m	@vd1970m	365.024	365.169	VERB
 pos@vd1970m	@vd1970m	365.169	365.314	PUNCT
 pos@vd1970m	@vd1970m	365.314	365.465	PUNCT
 pos@vd1970m	@vd1970m	368.266	368.42	CCONJ
@@ -2633,7 +2639,7 @@ pos@vd1970m	@vd1970m	369.036	369.19	PRON
 pos@vd1970m	@vd1970m	369.19	369.344	VERB
 pos@vd1970m	@vd1970m	369.344	369.498	PUNCT
 pos@vd1970m	@vd1970m	369.498	369.657	PUNCT
-pos@vd1970m	@vd1970m	375.276	375.375	INTJ
+pos@vd1970m	@vd1970m	375.276	375.375	PART
 pos@vd1970m	@vd1970m	375.375	375.59	PRON
 pos@vd1970m	@vd1970m	375.59	375.999	ADV
 pos@vd1970m	@vd1970m	375.999	376.36	VERB
@@ -2834,7 +2840,7 @@ pos@vd1970m	@vd1970m	450.922	451.831	PUNCT
 pos@vd1970m	@vd1970m	451.831	451.968	INTJ
 pos@vd1970m	@vd1970m	451.968	452.363	PART
 pos@vd1970m	@vd1970m	452.363	452.645	ADV
-pos@vd1970m	@vd1970m	452.645	452.836	ADV
+pos@vd1970m	@vd1970m	452.645	452.836	VERB
 pos@vd1970m	@vd1970m	452.836	452.954	VERB
 pos@vd1970m	@vd1970m	452.954	453.036	PUNCT
 pos@vd1970m	@vd1970m	453.036	453.081	PUNCT
@@ -2873,7 +2879,7 @@ pos@vd1970m	@vd1970m	481.795	481.954	PRON
 pos@vd1970m	@vd1970m	481.954	482.081	NUM
 pos@vd1970m	@vd1970m	482.081	482.254	NOUN
 pos@vd1970m	@vd1970m	482.254	482.418	PART
-pos@vd1970m	@vd1970m	482.418	482.568	VERB
+pos@vd1970m	@vd1970m	482.418	482.568	AUX
 pos@vd1970m	@vd1970m	482.568	482.672	PUNCT
 pos@vd1970m	@vd1970m	482.672	482.936	X
 pos@vd1970m	@vd1970m	482.936	483.1	X
@@ -2887,7 +2893,7 @@ pos@vd1970m	@vd1970m	484.568	484.854	NOUN
 pos@vd1970m	@vd1970m	484.854	485.1	DET
 pos@vd1970m	@vd1970m	485.1	485.331	SCONJ
 pos@vd1970m	@vd1970m	485.331	485.622	PRON
-pos@vd1970m	@vd1970m	485.622	486.036	ADV
+pos@vd1970m	@vd1970m	485.622	486.036	AUX
 pos@vd1970m	@vd1970m	486.036	486.422	VERB
 pos@vd1970m	@vd1970m	486.422	486.754	NOUN
 pos@vd1970m	@vd1970m	486.754	486.8	PUNCT
@@ -2973,7 +2979,9 @@ pos@vd1970m	@vd1970m	519.685	519.982	PUNCT
 pos@vd1970m	@vd1970m	519.982	520.279	PUNCT
 pos@vd1970m	@vd1970m	520.769	521.076	NOUN
 pos@vd1970m	@vd1970m	521.076	521.383	ADJ
-pos@vd1970m	@vd1970m	521.383	522.754	ADV
+pos@vd1970m	@vd1970m	521.383	521.84	ADJ
+pos@vd1970m	@vd1970m	521.84	522.297	PUNCT
+pos@vd1970m	@vd1970m	522.297	522.754	ADJ
 pos@vd1970m	@vd1970m	522.754	523.054	PUNCT
 pos@vd1970m	@vd1970m	523.054	523.255	CCONJ
 pos@vd1970m	@vd1970m	523.255	523.456	NOUN
@@ -3063,12 +3071,12 @@ pos@vd1970m	@vd1970m	549.292	549.679	NOUN
 pos@vd1970m	@vd1970m	549.679	550.218	PUNCT
 pos@vd1970m	@vd1970m	550.218	550.386	PRON
 pos@vd1970m	@vd1970m	550.386	550.481	PUNCT
-pos@vd1970m	@vd1970m	550.481	550.686	PROPN
+pos@vd1970m	@vd1970m	550.481	550.686	NOUN
 pos@vd1970m	@vd1970m	550.686	551.05	NUM
 pos@vd1970m	@vd1970m	551.05	551.357	PUNCT
 pos@vd1970m	@vd1970m	551.357	551.95	PRON
 pos@vd1970m	@vd1970m	551.95	552.177	PUNCT
-pos@vd1970m	@vd1970m	552.177	552.281	PROPN
+pos@vd1970m	@vd1970m	552.177	552.281	NOUN
 pos@vd1970m	@vd1970m	552.281	552.527	NUM
 pos@vd1970m	@vd1970m	552.527	552.55	PUNCT
 pos@vd1970m	@vd1970m	552.55	552.583	PUNCT
@@ -3182,7 +3190,7 @@ gram@mm1972m	@mm1972m	164.975	165.64	_
 gram@mm1972m	@mm1972m	165.64	166.09	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
 gram@mm1972m	@mm1972m	166.09	166.285	_
 gram@mm1972m	@mm1972m	166.285	166.618	_
-gram@mm1972m	@mm1972m	166.618	166.951	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing
+gram@mm1972m	@mm1972m	166.618	166.951	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
 gram@mm1972m	@mm1972m	166.951	168.555	_
 gram@mm1972m	@mm1972m	168.555	168.675	_
 gram@mm1972m	@mm1972m	168.675	168.83	Degree=Pos
@@ -3192,7 +3200,7 @@ gram@mm1972m	@mm1972m	169.05	169.14	_
 gram@mm1972m	@mm1972m	169.14	169.282	_
 gram@mm1972m	@mm1972m	180.904	181.025	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
 gram@mm1972m	@mm1972m	181.025	181.115	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
-gram@mm1972m	@mm1972m	181.115	181.235	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
+gram@mm1972m	@mm1972m	181.115	181.235	_
 gram@mm1972m	@mm1972m	181.235	181.32	_
 gram@mm1972m	@mm1972m	181.32	181.505	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing
 gram@mm1972m	@mm1972m	181.505	181.75	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
@@ -3225,7 +3233,7 @@ gram@mm1972m	@mm1972m	258.679	258.8	_
 gram@mm1972m	@mm1972m	258.8	258.895	_
 gram@mm1972m	@mm1972m	258.895	259.03	Case=Nom|Number=Sing|Person=2
 gram@mm1972m	@mm1972m	259.03	259.275	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
-gram@mm1972m	@mm1972m	259.275	259.91	_
+gram@mm1972m	@mm1972m	259.275	259.91	Degree=Pos
 gram@mm1972m	@mm1972m	259.91	260.17	_
 gram@mm1972m	@mm1972m	260.17	260.263	_
 gram@mm1972m	@mm1972m	267.829	267.971	_
@@ -3298,7 +3306,7 @@ gram@mm1972m	@mm1972m	324.996	325.261	Degree=Pos
 gram@mm1972m	@mm1972m	325.261	325.415	_
 gram@mm1972m	@mm1972m	325.415	325.625	Case=Ins|Gender=Masc|Number=Sing|Person=3
 gram@mm1972m	@mm1972m	325.625	326.029	Aspect=Imp|VerbForm=Inf|Voice=Act
-gram@mm1972m	@mm1972m	326.029	326.433	Degree=Pos
+gram@mm1972m	@mm1972m	326.029	326.433	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@mm1972m	@mm1972m	326.433	326.837	_
 gram@mm1972m	@mm1972m	326.837	327.935	_
 gram@mm1972m	@mm1972m	327.935	328.11	Case=Nom|Number=Sing|Person=2
@@ -3415,7 +3423,7 @@ gram@mm1972m	@mm1972m	502.182	502.41	Animacy=Inan|Case=Nom|Gender=Neut|Number=Si
 gram@mm1972m	@mm1972m	502.41	502.638	_
 gram@mm1972m	@mm1972m	502.638	502.868	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short
 gram@mm1972m	@mm1972m	502.868	502.911	_
-gram@vd1970m	@vd1970m	11.875	11.972	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act
+gram@vd1970m	@vd1970m	11.875	11.972	_
 gram@vd1970m	@vd1970m	11.972	12.069	_
 gram@vd1970m	@vd1970m	12.069	12.166	_
 gram@vd1970m	@vd1970m	12.166	12.265	_
@@ -3433,7 +3441,7 @@ gram@vd1970m	@vd1970m	34.12	34.423	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|T
 gram@vd1970m	@vd1970m	34.423	34.726	_
 gram@vd1970m	@vd1970m	34.726	35.029	_
 gram@vd1970m	@vd1970m	35.029	35.332	_
-gram@vd1970m	@vd1970m	35.332	35.636	_
+gram@vd1970m	@vd1970m	35.332	35.636	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	35.636	35.751	_
 gram@vd1970m	@vd1970m	35.751	36.045	_
 gram@vd1970m	@vd1970m	38.858	38.994	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
@@ -3441,14 +3449,14 @@ gram@vd1970m	@vd1970m	38.994	39.126	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sin
 gram@vd1970m	@vd1970m	39.126	39.242	_
 gram@vd1970m	@vd1970m	39.242	39.435	Case=Loc|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	39.435	39.628	_
-gram@vd1970m	@vd1970m	39.628	39.821	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
+gram@vd1970m	@vd1970m	39.628	39.821	_
 gram@vd1970m	@vd1970m	39.821	40.014	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	40.014	40.207	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	40.207	40.4	_
 gram@vd1970m	@vd1970m	40.4	40.598	_
 gram@vd1970m	@vd1970m	41.523	41.657	_
-gram@vd1970m	@vd1970m	41.657	41.973	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
-gram@vd1970m	@vd1970m	41.973	42.337	Case=Acc
+gram@vd1970m	@vd1970m	41.657	41.973	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing
+gram@vd1970m	@vd1970m	41.973	42.337	Case=Loc
 gram@vd1970m	@vd1970m	42.337	42.701	_
 gram@vd1970m	@vd1970m	42.701	42.936	_
 gram@vd1970m	@vd1970m	42.936	43.742	Degree=Pos
@@ -3461,15 +3469,15 @@ gram@vd1970m	@vd1970m	46.252	46.547	Case=Nom|Number=Sing|Person=1
 gram@vd1970m	@vd1970m	46.547	46.794	_
 gram@vd1970m	@vd1970m	46.794	47.047	_
 gram@vd1970m	@vd1970m	47.047	47.436	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
-gram@vd1970m	@vd1970m	47.436	47.815	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing
-gram@vd1970m	@vd1970m	47.815	48.094	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+gram@vd1970m	@vd1970m	47.436	47.815	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing
+gram@vd1970m	@vd1970m	47.815	48.094	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	48.094	48.31	_
 gram@vd1970m	@vd1970m	48.31	48.773	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	48.773	49.084	_
-gram@vd1970m	@vd1970m	49.084	50.082	Case=Nom|Degree=Pos|Number=Plur
-gram@vd1970m	@vd1970m	50.082	50.682	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur
-gram@vd1970m	@vd1970m	50.682	51.073	Case=Nom
-gram@vd1970m	@vd1970m	51.073	51.584	Case=Nom
+gram@vd1970m	@vd1970m	49.084	50.082	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur
+gram@vd1970m	@vd1970m	50.082	50.682	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur
+gram@vd1970m	@vd1970m	50.682	51.073	Case=Acc
+gram@vd1970m	@vd1970m	51.073	51.584	Case=Acc
 gram@vd1970m	@vd1970m	51.584	52.929	_
 gram@vd1970m	@vd1970m	52.929	53.023	_
 gram@vd1970m	@vd1970m	53.023	53.5	Degree=Pos
@@ -3498,7 +3506,7 @@ gram@vd1970m	@vd1970m	68.347	68.529	_
 gram@vd1970m	@vd1970m	68.529	68.723	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	68.723	69.241	_
 gram@vd1970m	@vd1970m	69.241	69.658	_
-gram@vd1970m	@vd1970m	69.658	69.811	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
+gram@vd1970m	@vd1970m	69.658	69.811	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	69.811	69.935	Case=Nom
 gram@vd1970m	@vd1970m	69.935	70.157	_
 gram@vd1970m	@vd1970m	70.157	70.379	_
@@ -3568,7 +3576,7 @@ gram@vd1970m	@vd1970m	94.964	95.2	Degree=Pos|Gender=Neut|Number=Sing|Variant=Sho
 gram@vd1970m	@vd1970m	95.2	95.264	_
 gram@vd1970m	@vd1970m	95.264	95.535	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	95.535	95.752	_
-gram@vd1970m	@vd1970m	95.752	96.169	_
+gram@vd1970m	@vd1970m	95.752	96.169	Degree=Pos
 gram@vd1970m	@vd1970m	96.169	96.586	Degree=Pos
 gram@vd1970m	@vd1970m	96.586	97.003	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur
 gram@vd1970m	@vd1970m	97.003	97.42	_
@@ -3585,7 +3593,7 @@ gram@vd1970m	@vd1970m	100.323	100.405	_
 gram@vd1970m	@vd1970m	100.405	100.552	_
 gram@vd1970m	@vd1970m	100.552	100.694	_
 gram@vd1970m	@vd1970m	100.694	100.8	_
-gram@vd1970m	@vd1970m	100.8	101.211	Animacy=Inan|Case=Acc|Number=Plur
+gram@vd1970m	@vd1970m	100.8	101.211	Case=Acc|Number=Plur
 gram@vd1970m	@vd1970m	101.211	101.622	_
 gram@vd1970m	@vd1970m	101.622	102.241	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur
 gram@vd1970m	@vd1970m	102.241	102.341	_
@@ -3626,7 +3634,7 @@ gram@vd1970m	@vd1970m	132.754	133.275	Animacy=Anim|Case=Nom|Gender=Masc|Number=P
 gram@vd1970m	@vd1970m	133.275	134.7	_
 gram@vd1970m	@vd1970m	134.7	135.188	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur
 gram@vd1970m	@vd1970m	135.188	135.676	_
-gram@vd1970m	@vd1970m	135.676	136.164	Animacy=Anim|Case=Nom|Degree=Pos|Number=Plur
+gram@vd1970m	@vd1970m	135.676	136.164	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur
 gram@vd1970m	@vd1970m	136.164	136.97	_
 gram@vd1970m	@vd1970m	136.97	137.117	_
 gram@vd1970m	@vd1970m	137.117	137.376	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur
@@ -3654,7 +3662,7 @@ gram@vd1970m	@vd1970m	147.658	147.735	_
 gram@vd1970m	@vd1970m	148.471	148.842	_
 gram@vd1970m	@vd1970m	148.842	149.213	_
 gram@vd1970m	@vd1970m	149.213	149.584	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing
-gram@vd1970m	@vd1970m	149.584	149.955	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+gram@vd1970m	@vd1970m	149.584	149.955	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	149.955	150.326	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	150.326	150.87	_
 gram@vd1970m	@vd1970m	150.87	151.617	Animacy=Inan|Case=Acc|Number=Plur
@@ -3702,7 +3710,7 @@ gram@vd1970m	@vd1970m	172.3	172.375	_
 gram@vd1970m	@vd1970m	172.375	172.775	Degree=Pos
 gram@vd1970m	@vd1970m	172.775	173.265	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short
 gram@vd1970m	@vd1970m	173.265	173.405	_
-gram@vd1970m	@vd1970m	173.405	173.729	Degree=Pos
+gram@vd1970m	@vd1970m	173.405	173.729	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	173.729	173.88	Aspect=Perf|VerbForm=Inf|Voice=Act
 gram@vd1970m	@vd1970m	173.88	174.005	_
 gram@vd1970m	@vd1970m	174.005	174.352	Aspect=Perf|VerbForm=Inf|Voice=Act
@@ -3758,7 +3766,7 @@ gram@vd1970m	@vd1970m	193.359	193.548	_
 gram@vd1970m	@vd1970m	193.548	193.737	Case=Acc|Gender=Masc|Number=Sing|Person=3
 gram@vd1970m	@vd1970m	193.737	193.926	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	193.926	194.115	Aspect=Perf|VerbForm=Inf|Voice=Act
-gram@vd1970m	@vd1970m	194.115	194.304	_
+gram@vd1970m	@vd1970m	194.115	194.304	Degree=Pos
 gram@vd1970m	@vd1970m	194.304	194.493	_
 gram@vd1970m	@vd1970m	194.493	194.696	_
 gram@vd1970m	@vd1970m	195.903	196.64	_
@@ -3769,7 +3777,7 @@ gram@vd1970m	@vd1970m	197.58	197.718	Case=Nom|Gender=Masc|Number=Sing|Person=3
 gram@vd1970m	@vd1970m	197.718	198.005	Degree=Pos
 gram@vd1970m	@vd1970m	198.005	198.169	_
 gram@vd1970m	@vd1970m	198.169	198.333	_
-gram@vd1970m	@vd1970m	198.333	198.59	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+gram@vd1970m	@vd1970m	198.333	198.59	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing
 gram@vd1970m	@vd1970m	198.59	198.739	Degree=Pos
 gram@vd1970m	@vd1970m	198.739	199.125	Degree=Pos
 gram@vd1970m	@vd1970m	199.125	199.295	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
@@ -3778,7 +3786,7 @@ gram@vd1970m	@vd1970m	199.365	199.44	_
 gram@vd1970m	@vd1970m	199.44	199.488	_
 gram@vd1970m	@vd1970m	201.81	201.875	_
 gram@vd1970m	@vd1970m	201.875	202.085	_
-gram@vd1970m	@vd1970m	202.085	202.363	_
+gram@vd1970m	@vd1970m	202.085	202.363	Degree=Pos
 gram@vd1970m	@vd1970m	202.363	202.565	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing
 gram@vd1970m	@vd1970m	202.565	202.705	_
 gram@vd1970m	@vd1970m	202.705	202.83	Case=Nom|Gender=Masc|Number=Sing|Person=3
@@ -3801,7 +3809,9 @@ gram@vd1970m	@vd1970m	206.8	207.01	_
 gram@vd1970m	@vd1970m	207.01	207.115	_
 gram@vd1970m	@vd1970m	207.115	207.215	_
 gram@vd1970m	@vd1970m	207.215	207.75	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
-gram@vd1970m	@vd1970m	207.75	208.615	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid
+gram@vd1970m	@vd1970m	207.75	208.038	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid
+gram@vd1970m	@vd1970m	208.038	208.326	_
+gram@vd1970m	@vd1970m	208.326	208.615	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid
 gram@vd1970m	@vd1970m	208.615	209.675	_
 gram@vd1970m	@vd1970m	209.675	209.95	_
 gram@vd1970m	@vd1970m	209.95	210.32	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing
@@ -3832,7 +3842,7 @@ gram@vd1970m	@vd1970m	216.02	216.085	_
 gram@vd1970m	@vd1970m	216.085	216.314	_
 gram@vd1970m	@vd1970m	216.314	216.543	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing
 gram@vd1970m	@vd1970m	216.543	216.665	_
-gram@vd1970m	@vd1970m	216.665	216.896	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
+gram@vd1970m	@vd1970m	216.665	216.896	Case=Acc|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	216.896	217.127	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	217.127	217.555	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid
 gram@vd1970m	@vd1970m	217.555	218.655	_
@@ -3869,9 +3879,9 @@ gram@vd1970m	@vd1970m	224.965	225.185	_
 gram@vd1970m	@vd1970m	225.185	225.325	_
 gram@vd1970m	@vd1970m	225.325	225.49	_
 gram@vd1970m	@vd1970m	225.49	225.752	_
-gram@vd1970m	@vd1970m	225.752	226.014	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing
+gram@vd1970m	@vd1970m	225.752	226.014	Case=Acc|Gender=Fem|Number=Sing
 gram@vd1970m	@vd1970m	226.014	226.495	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing
-gram@vd1970m	@vd1970m	226.495	226.895	_
+gram@vd1970m	@vd1970m	226.495	226.895	Degree=Pos
 gram@vd1970m	@vd1970m	226.895	227.255	_
 gram@vd1970m	@vd1970m	227.255	227.8	_
 gram@vd1970m	@vd1970m	227.8	228.01	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing
@@ -3895,20 +3905,20 @@ gram@vd1970m	@vd1970m	236.49	236.585	_
 gram@vd1970m	@vd1970m	236.585	236.695	_
 gram@vd1970m	@vd1970m	237.375	238.2	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	238.2	238.89	_
-gram@vd1970m	@vd1970m	238.89	239.5	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+gram@vd1970m	@vd1970m	238.89	239.5	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	239.5	239.56	_
 gram@vd1970m	@vd1970m	239.56	239.639	_
 gram@vd1970m	@vd1970m	240.89	240.98	_
 gram@vd1970m	@vd1970m	240.98	241.06	_
 gram@vd1970m	@vd1970m	241.06	241.15	_
-gram@vd1970m	@vd1970m	241.15	241.295	Degree=Pos
+gram@vd1970m	@vd1970m	241.15	241.295	_
 gram@vd1970m	@vd1970m	241.295	241.46	_
 gram@vd1970m	@vd1970m	241.46	242.005	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
 gram@vd1970m	@vd1970m	242.005	242.885	_
 gram@vd1970m	@vd1970m	242.885	243.14	_
 gram@vd1970m	@vd1970m	243.14	243.345	_
 gram@vd1970m	@vd1970m	243.345	243.465	_
-gram@vd1970m	@vd1970m	243.465	243.585	Degree=Pos
+gram@vd1970m	@vd1970m	243.465	243.585	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	243.585	243.64	_
 gram@vd1970m	@vd1970m	243.64	243.686	_
 gram@vd1970m	@vd1970m	245.383	245.57	_
@@ -3925,7 +3935,7 @@ gram@vd1970m	@vd1970m	250.01	250.045	_
 gram@vd1970m	@vd1970m	250.045	250.063	_
 gram@vd1970m	@vd1970m	256.419	256.596	_
 gram@vd1970m	@vd1970m	256.596	256.773	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
-gram@vd1970m	@vd1970m	256.773	256.95	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
+gram@vd1970m	@vd1970m	256.773	256.95	_
 gram@vd1970m	@vd1970m	256.95	257.2	Case=Nom
 gram@vd1970m	@vd1970m	257.2	257.255	_
 gram@vd1970m	@vd1970m	257.255	257.295	_
@@ -3980,7 +3990,7 @@ gram@vd1970m	@vd1970m	272.875	273.06	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|
 gram@vd1970m	@vd1970m	273.06	273.245	_
 gram@vd1970m	@vd1970m	273.245	273.446	_
 gram@vd1970m	@vd1970m	274.197	274.399	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
-gram@vd1970m	@vd1970m	274.399	274.601	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
+gram@vd1970m	@vd1970m	274.399	274.601	_
 gram@vd1970m	@vd1970m	274.601	274.803	Degree=Pos
 gram@vd1970m	@vd1970m	274.803	275.005	_
 gram@vd1970m	@vd1970m	275.005	275.207	Aspect=Perf|VerbForm=Inf|Voice=Act
@@ -3995,7 +4005,7 @@ gram@vd1970m	@vd1970m	278.735	279.36	_
 gram@vd1970m	@vd1970m	279.36	279.63	Degree=Pos
 gram@vd1970m	@vd1970m	279.63	279.86	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	279.86	280.11	Aspect=Perf|VerbForm=Inf|Voice=Act
-gram@vd1970m	@vd1970m	280.11	280.365	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+gram@vd1970m	@vd1970m	280.11	280.365	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	280.365	280.405	_
 gram@vd1970m	@vd1970m	280.405	280.455	_
 gram@vd1970m	@vd1970m	280.455	280.501	_
@@ -4070,7 +4080,7 @@ gram@vd1970m	@vd1970m	334.4	334.45	_
 gram@vd1970m	@vd1970m	334.45	334.495	_
 gram@vd1970m	@vd1970m	334.495	334.539	_
 gram@vd1970m	@vd1970m	336.875	337.061	_
-gram@vd1970m	@vd1970m	337.061	337.247	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act
+gram@vd1970m	@vd1970m	337.061	337.247	_
 gram@vd1970m	@vd1970m	337.247	337.433	_
 gram@vd1970m	@vd1970m	337.433	337.619	_
 gram@vd1970m	@vd1970m	337.619	337.805	Degree=Pos
@@ -4094,10 +4104,10 @@ gram@vd1970m	@vd1970m	352.01	352.165	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Te
 gram@vd1970m	@vd1970m	352.165	352.53	Aspect=Perf|VerbForm=Inf|Voice=Act
 gram@vd1970m	@vd1970m	352.53	352.77	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	352.77	352.94	_
-gram@vd1970m	@vd1970m	352.94	353.22	Degree=Pos
+gram@vd1970m	@vd1970m	352.94	353.22	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	353.22	353.62	_
 gram@vd1970m	@vd1970m	353.62	353.71	_
-gram@vd1970m	@vd1970m	353.71	353.975	_
+gram@vd1970m	@vd1970m	353.71	353.975	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	353.975	354.11	_
 gram@vd1970m	@vd1970m	354.11	354.18	_
 gram@vd1970m	@vd1970m	354.18	354.287	_
@@ -4114,7 +4124,7 @@ gram@vd1970m	@vd1970m	359.21	359.305	_
 gram@vd1970m	@vd1970m	359.305	359.51	Degree=Pos
 gram@vd1970m	@vd1970m	359.51	359.715	Degree=Pos
 gram@vd1970m	@vd1970m	359.715	359.9	Degree=Pos
-gram@vd1970m	@vd1970m	359.9	360.11	Degree=Pos
+gram@vd1970m	@vd1970m	359.9	360.11	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	360.11	360.715	Aspect=Imp|VerbForm=Inf|Voice=Act
 gram@vd1970m	@vd1970m	360.715	360.945	_
 gram@vd1970m	@vd1970m	360.945	361.297	Case=Dat|Gender=Masc|Number=Sing
@@ -4338,12 +4348,12 @@ gram@vd1970m	@vd1970m	450.922	451.831	_
 gram@vd1970m	@vd1970m	451.831	451.968	_
 gram@vd1970m	@vd1970m	451.968	452.363	_
 gram@vd1970m	@vd1970m	452.363	452.645	Degree=Pos
-gram@vd1970m	@vd1970m	452.645	452.836	Degree=Pos
+gram@vd1970m	@vd1970m	452.645	452.836	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	452.836	452.954	Aspect=Imp|VerbForm=Inf|Voice=Act
 gram@vd1970m	@vd1970m	452.954	453.036	_
 gram@vd1970m	@vd1970m	453.036	453.081	_
 gram@vd1970m	@vd1970m	453.081	453.154	_
-gram@vd1970m	@vd1970m	453.887	454.504	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
+gram@vd1970m	@vd1970m	453.887	454.504	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	454.504	454.7	_
 gram@vd1970m	@vd1970m	454.7	454.778	_
 gram@vd1970m	@vd1970m	455.799	455.918	_
@@ -4391,7 +4401,7 @@ gram@vd1970m	@vd1970m	484.568	484.854	Animacy=Inan|Case=Gen|Gender=Masc|Number=S
 gram@vd1970m	@vd1970m	484.854	485.1	Case=Gen|Number=Plur
 gram@vd1970m	@vd1970m	485.1	485.331	_
 gram@vd1970m	@vd1970m	485.331	485.622	Case=Acc|Number=Plur|Person=3
-gram@vd1970m	@vd1970m	485.622	486.036	Degree=Pos
+gram@vd1970m	@vd1970m	485.622	486.036	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vd1970m	@vd1970m	486.036	486.422	Aspect=Perf|VerbForm=Inf|Voice=Act
 gram@vd1970m	@vd1970m	486.422	486.754	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur
 gram@vd1970m	@vd1970m	486.754	486.8	_
@@ -4477,7 +4487,9 @@ gram@vd1970m	@vd1970m	519.685	519.982	_
 gram@vd1970m	@vd1970m	519.982	520.279	_
 gram@vd1970m	@vd1970m	520.769	521.076	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing
 gram@vd1970m	@vd1970m	521.076	521.383	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing
-gram@vd1970m	@vd1970m	521.383	522.754	Degree=Pos
+gram@vd1970m	@vd1970m	521.383	521.84	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing
+gram@vd1970m	@vd1970m	521.84	522.297	_
+gram@vd1970m	@vd1970m	522.297	522.754	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing
 gram@vd1970m	@vd1970m	522.754	523.054	_
 gram@vd1970m	@vd1970m	523.054	523.255	_
 gram@vd1970m	@vd1970m	523.255	523.456	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur
@@ -4542,7 +4554,7 @@ gram@vd1970m	@vd1970m	540.545	540.777	Case=Nom|Gender=Fem|Number=Sing|Person=3
 gram@vd1970m	@vd1970m	540.777	541.168	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short
 gram@vd1970m	@vd1970m	541.168	541.522	_
 gram@vd1970m	@vd1970m	541.522	541.714	_
-gram@vd1970m	@vd1970m	541.714	541.906	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing
+gram@vd1970m	@vd1970m	541.714	541.906	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	541.906	542.098	_
 gram@vd1970m	@vd1970m	542.098	542.709	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing
 gram@vd1970m	@vd1970m	542.709	542.772	_
@@ -4581,7 +4593,7 @@ gram@vd1970m	@vd1970m	553.395	553.748	Animacy=Inan|Case=Loc|Gender=Masc|Number=S
 gram@vd1970m	@vd1970m	553.748	554.101	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	554.101	554.454	_
 gram@vd1970m	@vd1970m	554.454	554.807	_
-gram@vd1970m	@vd1970m	554.807	555.16	Case=Nom|Gender=Neut|Number=Sing
+gram@vd1970m	@vd1970m	554.807	555.16	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	555.16	555.513	_
 gram@vd1970m	@vd1970m	555.513	555.866	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	555.866	556.222	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act
@@ -4597,7 +4609,7 @@ gram@vd1970m	@vd1970m	558.474	558.732	_
 gram@vd1970m	@vd1970m	558.732	558.99	_
 gram@vd1970m	@vd1970m	558.99	559.248	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur
 gram@vd1970m	@vd1970m	559.248	559.506	_
-gram@vd1970m	@vd1970m	559.506	559.764	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur
+gram@vd1970m	@vd1970m	559.506	559.764	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing
 gram@vd1970m	@vd1970m	559.764	560.022	_
 gram@vd1970m	@vd1970m	560.022	560.29	_
 gram@vd1970m	@vd1970m	561.073	561.347	Degree=Pos
@@ -4944,6 +4956,7 @@ intonation@vd1970m	@vd1970m	187.262	191.055	неясно
 intonation@vd1970m	@vd1970m	191.847	194.696	неясно
 intonation@vd1970m	@vd1970m	195.903	199.488	неясно
 intonation@vd1970m	@vd1970m	201.81	212.95	нарратив
+intonation@vd1970m	@vd1970m	213.201	214.88	нарратив
 intonation@vd1970m	@vd1970m	215.295	231.727	неясно
 intonation@vd1970m	@vd1970m	234.884	236.695	нарратив
 intonation@vd1970m	@vd1970m	237.375	239.639	нарратив
