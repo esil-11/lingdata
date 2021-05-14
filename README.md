@@ -1,8 +1,8 @@
-#Overview
+# Overview
 
 This is a phonetics-themed roguelike game for a programming project. It is built with ___Python___ using object-oriented programming. The development followed this tutorial *(http://rogueliketutorials.com/tutorials/tcod/v2/)* and used mainly the ___tcod___ library, as well as some others. The project might be of help with getting to know IPA (International Phonetic Alphabet).
 
-###Features:
+### Features:
 
 - enemies are represented with IPA consonants
 - healing potions are represented with IPA vowels
