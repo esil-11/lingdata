@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-19T01:16:19+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-19T01:27:38+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/User/Downloads/egorroge.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Downloads/egorroge.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8205098e-1152-4d29-a169-bd30c4c553ac</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">505</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">511</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2160"/>
@@ -16,8 +16,8 @@
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2940"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2970"/>
         <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3030"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="3030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="3070"/>
         <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="3160"/>
         <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="3870"/>
         <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="4470"/>
@@ -323,7 +323,7 @@
         LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@evz1995m" TIER_ID="text@evz1995m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
-                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts8">
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts7">
                 <ANNOTATION_VALUE>че Наташ начинаем? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -448,7 +448,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
-                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
                 <ANNOTATION_VALUE>/</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -2520,7 +2520,7 @@
         PARTICIPANT="@evz1995m" TIER_ID="pause@evz1995m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a478"
-                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts14">
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts14">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -2691,7 +2691,38 @@
         PARTICIPANT="@evz1995m" TIER_ID="focus@evz1995m"/>
     <TIER ANNOTATOR="Olya" DEFAULT_LOCALE="ru"
         LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@evz1995m"
-        PARTICIPANT="@evz1995m" TIER_ID="intonation@evz1995m"/>
+        PARTICIPANT="@evz1995m" TIER_ID="intonation@evz1995m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a506" ANNOTATION_REF="a1" CVE_REF="cveid_9eb6fb21-7b75-438f-85d6-3e63be918467">
+                <ANNOTATION_VALUE>Вопрос да-нет</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a507" ANNOTATION_REF="a2" CVE_REF="cveid_d88fe80f-ade8-4ec7-a00a-5a71899102e9">
+                <ANNOTATION_VALUE>Нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a508" ANNOTATION_REF="a3" CVE_REF="cveid_d88fe80f-ade8-4ec7-a00a-5a71899102e9">
+                <ANNOTATION_VALUE>Нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a509" ANNOTATION_REF="a7" CVE_REF="cveid_d88fe80f-ade8-4ec7-a00a-5a71899102e9">
+                <ANNOTATION_VALUE>Нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a510" ANNOTATION_REF="a9" CVE_REF="cveid_d88fe80f-ade8-4ec7-a00a-5a71899102e9">
+                <ANNOTATION_VALUE>Нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a511" ANNOTATION_REF="a11" CVE_REF="cveid_d88fe80f-ade8-4ec7-a00a-5a71899102e9">
+                <ANNOTATION_VALUE>Нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="Olya" DEFAULT_LOCALE="ru"
         LINGUISTIC_TYPE_REF="gesture" PARTICIPANT="@evz1995m" TIER_ID="gesture@evz1995m">
         <ANNOTATION>
@@ -3141,6 +3172,7 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="Intonation"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="intonation" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="pause" TIME_ALIGNABLE="true"/>
